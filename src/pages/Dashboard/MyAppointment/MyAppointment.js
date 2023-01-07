@@ -19,7 +19,7 @@ const MyAppointment = () => {
             return data;
         }
     })
-    // console.log(bookings);
+    console.log(bookings);
     return (
         <div>
             <h3 className='text-3xl text-primary'>My Appointment</h3>
